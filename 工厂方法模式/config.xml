@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<className1>example3_3.windowsFactory</className1>
+	<className2>example3_4.SubBuilder2</className2>
+	<className3>example3_2.GifReaderFactory</className3>
+	<brandName>example3_1.Man</brandName>
+	
+
+</config>

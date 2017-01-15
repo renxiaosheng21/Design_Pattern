@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+	<className>example4_2.AirConditioner</className>
+	<className>example4_2.TCL</className>
+	<className1>example4_1.ConcreteDog</className1>
+	<className2>example4_7.Picture</className2>
+</config>
